@@ -120,6 +120,9 @@ namespace MMO.Photon.Server
                         _defaultRequestHandler.HandleMessage(message, peer);
                     }
                     break;
+
+                case MessageType.Response:
+                    break;
             }
 
             return handled;
