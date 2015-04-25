@@ -1,0 +1,10 @@
+C:\Users\Zack\Desktop\MMO.Net\MMO.Framework\bin\Debug\MMO.Framework.dll
+C:\Users\Zack\Desktop\MMO.Net\MMO.Framework\bin\Debug\MMO.Framework.pdb
+C:\Users\Zack\Desktop\MMO.Net\MMO.Framework\obj\Debug\MMO.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\MMO.Net\MMO.Framework\obj\Debug\MMO.Framework.dll
+C:\Users\Zack\Desktop\MMO.Net\MMO.Framework\obj\Debug\MMO.Framework.pdb
+G:\WorkSpace\Photon\src-server\MMO.Net\MMO.Framework\bin\Debug\MMO.Framework.dll
+G:\WorkSpace\Photon\src-server\MMO.Net\MMO.Framework\bin\Debug\MMO.Framework.pdb
+G:\WorkSpace\Photon\src-server\MMO.Net\MMO.Framework\obj\Debug\MMO.Framework.csprojResolveAssemblyReference.cache
+G:\WorkSpace\Photon\src-server\MMO.Net\MMO.Framework\obj\Debug\MMO.Framework.dll
+G:\WorkSpace\Photon\src-server\MMO.Net\MMO.Framework\obj\Debug\MMO.Framework.pdb

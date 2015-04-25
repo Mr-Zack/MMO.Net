@@ -1,0 +1,8 @@
+C:\Users\Zack\Desktop\MMO.Net\MMO.Photon\bin\Debug\MMO.Photon.dll
+C:\Users\Zack\Desktop\MMO.Net\MMO.Photon\bin\Debug\MMO.Photon.pdb
+C:\Users\Zack\Desktop\MMO.Net\MMO.Photon\obj\Debug\MMO.Photon.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\MMO.Net\MMO.Photon\obj\Debug\MMO.Photon.dll
+C:\Users\Zack\Desktop\MMO.Net\MMO.Photon\obj\Debug\MMO.Photon.pdb
+G:\WorkSpace\Photon\src-server\MMO.Net\MMO.Photon\obj\Debug\MMO.Photon.csprojResolveAssemblyReference.cache
+G:\WorkSpace\Photon\src-server\MMO.Net\MMO.Photon\obj\Debug\MMO.Photon.dll
+G:\WorkSpace\Photon\src-server\MMO.Net\MMO.Photon\obj\Debug\MMO.Photon.pdb
